@@ -1,4 +1,3 @@
-use web3::ethabi::ethereum_types::U256;
 use web3::types::{Block,BlockId, BlockNumber};
 use web3::types::U64;
 use std::fs;
